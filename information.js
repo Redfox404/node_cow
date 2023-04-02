@@ -1,8 +1,9 @@
-const name= "Emilie";
-const campus = "Nantes";
+const user ={
+    name : "Emilie",
+    campus : "Nantes",
+    }
 
 
 module.exports = {
-    name: name,
-    campus: campus,
-};
+    user: user
+}
